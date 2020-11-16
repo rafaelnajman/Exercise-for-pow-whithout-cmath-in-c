@@ -1,7 +1,3 @@
-//Rafael Najman
-//345278658
-//Taguil 4-4
-//does an a specific  proguession. 
 
 #include<iostream>
 using namespace std;
@@ -39,8 +35,3 @@ int main(){
 return 0;
 }
 
-/*enter two numbers:3
-2
--6
-C:\Users\Rafael\source\repos\Targuil 4\Debug\targul4-4.exe (process 2540) exited with code 0.
-Press any key to close this window . . .*/
